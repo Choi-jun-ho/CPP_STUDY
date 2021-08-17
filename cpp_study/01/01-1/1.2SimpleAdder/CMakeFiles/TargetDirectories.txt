@@ -1,3 +1,0 @@
-D:/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/01/01-1/1.2 SimpleAdder/CMakeFiles/1.2_SimpleAdder.dir
-D:/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/01/01-1/1.2 SimpleAdder/CMakeFiles/edit_cache.dir
-D:/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/01/01-1/1.2 SimpleAdder/CMakeFiles/rebuild_cache.dir
