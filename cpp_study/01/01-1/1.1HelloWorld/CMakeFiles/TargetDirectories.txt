@@ -1,3 +1,0 @@
-C:/Users/wnsgh/Desktop/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/01/01-1/1_1_HelloWorld/CMakeFiles/1_1_HelloWorld.dir
-C:/Users/wnsgh/Desktop/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/01/01-1/1_1_HelloWorld/CMakeFiles/edit_cache.dir
-C:/Users/wnsgh/Desktop/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/01/01-1/1_1_HelloWorld/CMakeFiles/rebuild_cache.dir
