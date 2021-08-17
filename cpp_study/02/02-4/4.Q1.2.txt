@@ -1,0 +1,14 @@
+문제 2
+
+void SwapByRef2(int &ver1, int &ver2)
+{
+	temp = ver1;
+	ver1 = ver2;
+	ver2 = temp;
+}
+
+SwapByRef2(23, 45);// 오류발생
+
+이유 : 23, 45는 상수로써 참조를 할수 없어서 
+참조자는 초기화를 할때 변수를 참조해야한다
+상수와 Null은 안되면 초기화도 바로 해줘야한다

@@ -1,0 +1,3 @@
+C:/Users/wnsgh/Desktop/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/07/07-1/1.2UnivStudent/CMakeFiles/1.2UnivStudent.dir
+C:/Users/wnsgh/Desktop/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/07/07-1/1.2UnivStudent/CMakeFiles/edit_cache.dir
+C:/Users/wnsgh/Desktop/Choijunho/workspace/VisualCode/CPP_PROJECT/cpp_programing/07/07-1/1.2UnivStudent/CMakeFiles/rebuild_cache.dir

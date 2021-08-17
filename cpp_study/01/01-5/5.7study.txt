@@ -1,0 +1,8 @@
+int val = 100;// 전역변수
+
+int SimpleFunc(void)
+{
+	int val = 20;// 지역변수
+	val += 3; // 지역변수 증가 23
+	::vla += 3 // 전역변수 증가 103
+}

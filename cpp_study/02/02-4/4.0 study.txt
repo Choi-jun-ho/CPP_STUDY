@@ -1,0 +1,19 @@
+참조자(Reference)와 함수
+
+Call-by-value & Call-by-reference
+
+Call-by-value		값을 인자로 전달하는 함수의 호출방식
+Call-by-reference   주소 값을 인자로 전달하는 함수의 호출방식
+
+void SwapByRef(int * ptr1, int *ptr2)
+{					0x1			0x2
+	int temp = *ptr1; 	
+	*ptr1 = *ptr2;
+	*ptr2 = temp; 
+}
+
+*ptr1 의미 : ptr은 주소를 가리키지만 *ptr은 주소에 해당하는 값을 가리킴
+
+
+
+
