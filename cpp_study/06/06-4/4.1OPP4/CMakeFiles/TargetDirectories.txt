@@ -1,3 +1,0 @@
-D:/Choijunho/workspace/VisualCode/CPP_POROJECT/cpp_programing/06/06-4/4.1OPP4/CMakeFiles/4.1OPP4.dir
-D:/Choijunho/workspace/VisualCode/CPP_POROJECT/cpp_programing/06/06-4/4.1OPP4/CMakeFiles/edit_cache.dir
-D:/Choijunho/workspace/VisualCode/CPP_POROJECT/cpp_programing/06/06-4/4.1OPP4/CMakeFiles/rebuild_cache.dir
