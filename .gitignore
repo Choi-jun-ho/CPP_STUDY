@@ -8,7 +8,7 @@
 # 모든 CMakeCache.txt 파일 제외하기
 **/CMakeCache.txt
 # 모든 CMakeList.txt 파일 제외하기
-**/CMakeList.txt
+**/CMakeLists.txt
 # 모든 Makefile 파일 제외하기
 **/Makefile
 
