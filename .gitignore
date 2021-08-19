@@ -12,7 +12,7 @@
 # 모든 Makefile 파일 제외하기
 **/Makefile
 
-# 개발자를 위한 가이드 README 폴더 안의 파일 다 제외하기
+# DEV_README 폴더 안의 파일 다 제외하기
 DEV_README/
 
 # .vscode 폴더 안의 파일 다 제외하기
